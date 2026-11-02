@@ -419,8 +419,7 @@ Recommended tests include checkpoint forward pass and expected class dimension, 
 - Restrict access to medical images and remove patient identifiers; confirm consent and data-use rights.
 - Only qualified clinicians should make clinical decisions. Deployment requires appropriate ethics, safety, privacy and regulatory review.
 
-## Acknowledgments and license
+## Acknowledgments 
 
 Project repository maintained at [sarfrazkhan66003 / OralScan AI](https://github.com/sarfrazkhan66003/-OralScan-AI-Oral-Cancer-Detection-System). The technical description above is based on the publicly visible repository README plus the separately supplied Y1/C1 and Y2/C2 archives, including notebooks and study documents.
 
-**License:** No license was confirmed from the inspected public repository listing. **Do not assume the project, third-party datasets, or checkpoint weights are open-source or available for unrestricted redistribution.** Add an explicit license only after verifying rights to code, images, annotations, model weights, and external dependencies.
